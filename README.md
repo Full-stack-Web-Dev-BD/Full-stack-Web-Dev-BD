@@ -5,12 +5,19 @@ Proficient in Fullstack Web Development utilizing Node.js, React, TypeScript,HTM
 
 🌍 From Bangladesh  
 🏃‍♂️ A web3 enthusiast
+<h3 align="left">Profile & Portfolio:</h3>
 
 [![Linkedin: ladibnasr](https://img.shields.io/badge/-Alamin%20Hossen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alamin-hossen-4a1711206/)](https://www.linkedin.com/in/alamin-hossen-4a1711206/)
+<br/>
+<a href="https://www.fiverr.com/alaminprogramer" style="text-decoration: none;">
+    <img src="https://github.com/Full-stack-Web-Dev-BD/Full-stack-Web-Dev-BD/assets/60449971/76d36e87-fdda-4576-bd25-db2297d41594" alt="Fiverr" width="40" height="40">
+</a>
+<a href="https://www.upwork.com/freelancers/shakhawat1" style="text-decoration: none;">
+    <img src="https://github.com/Full-stack-Web-Dev-BD/Full-stack-Web-Dev-BD/assets/60449971/c770434a-4142-4787-aa7b-2bde98e8b12d" alt="Fiverr" width="40" height="40">
+</a>
 
+ 
 
-
-<h3 align="left">Languages and Tools:</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -20,7 +27,7 @@ Proficient in Fullstack Web Development utilizing Node.js, React, TypeScript,HTM
   <img src="https://github.com/Full-stack-Web-Dev-BD/Full-stack-Web-Dev-BD/assets/60449971/7937fa39-ae3a-4d7e-a288-722447df8c56" alt="BSC" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
   <img src="https://github.com/Full-stack-Web-Dev-BD/Full-stack-Web-Dev-BD/assets/60449971/cef1ecf4-716c-455d-8579-66a76a34a887" alt="Django" width="30" height="40"/>
-  <img src="https://github.com/Full-stack-Web-Dev-BD/Full-stack-Web-Dev-BD/assets/60449971/10e83d8b-32fc-48a0-9cc3-1a1f36ff26c7" alt="Solidity" width="30" height="40"/>
+  <img src="https://github.com/Full-stack-Web-Dev-BD/Full-stack-Web-Dev-BD/assets/60449971/005d29f6-b781-4b96-9104-5cb16a4fec91" alt="Solidity" width="40" height="40"/>
   <img src="https://github.com/Full-stack-Web-Dev-BD/Full-stack-Web-Dev-BD/assets/60449971/fe672f4c-1ef6-4e25-a1ed-4124b1a7c9a8" alt="Metamask" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
@@ -29,7 +36,6 @@ Proficient in Fullstack Web Development utilizing Node.js, React, TypeScript,HTM
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
 </p>
-I've replaced the old tools with the new ones and added them to the list. Let me know if there's anything else you need!
 
 ## 📊 Github stats
 <img src="https://github-readme-stats.vercel.app/api?username=Nasr-Ladib&show_icons=true&bg_color=ffea00&title_color=000000&text_color=000000&icon_color=ff0000&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
