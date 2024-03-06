@@ -1,4 +1,4 @@
-  <h1 align="center">Hi 👋, I'm Nasr Ladib</h1>
+  <h1 align="center">Hi 👋</h1>
 <h3 align="center">DevSecOps, Cloud (AWS, Azure, GCP) Engineer at [Auchan Retail International]</h3>
 
 Proficient in Fullstack Web Development utilizing Node.js, React, TypeScript,HTML, CSS, Bootstrap, and Material UI. Experienced in integrating Web3 technologies, including  Ethereum, BscScan, and Polychain, with expertise in Solidity for smart contract development. Skilled in UX/UI design, proficient in Figma and Photoshop, with a keen eye for aesthetic and functional web design. Additional competencies include Python, Django, and a strong foundation in web design principles.
@@ -9,10 +9,10 @@ Proficient in Fullstack Web Development utilizing Node.js, React, TypeScript,HTM
 
 [![Linkedin: ladibnasr](https://img.shields.io/badge/-Alamin%20Hossen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alamin-hossen-4a1711206/)](https://www.linkedin.com/in/alamin-hossen-4a1711206/)
 <br/>
-<a href="https://www.fiverr.com/alaminprogramer" style="text-decoration: none;">
+<a href="https://www.fiverr.com/alaminprogramer" target="_blank" style="text-decoration: none;">
     <img src="https://github.com/Full-stack-Web-Dev-BD/Full-stack-Web-Dev-BD/assets/60449971/76d36e87-fdda-4576-bd25-db2297d41594" alt="Fiverr" width="40" height="40">
 </a>
-<a href="https://www.upwork.com/freelancers/shakhawat1" style="text-decoration: none;">
+<a href="https://www.upwork.com/freelancers/shakhawat1" target="_blank" style="text-decoration: none;">
     <img src="https://github.com/Full-stack-Web-Dev-BD/Full-stack-Web-Dev-BD/assets/60449971/c770434a-4142-4787-aa7b-2bde98e8b12d" alt="Fiverr" width="40" height="40">
 </a>
 
@@ -38,17 +38,14 @@ Proficient in Fullstack Web Development utilizing Node.js, React, TypeScript,HTM
 </p>
 
 ## 📊 Github stats
-<img src="https://github-readme-stats.vercel.app/api?username=Nasr-Ladib&show_icons=true&bg_color=ffea00&title_color=000000&text_color=000000&icon_color=ff0000&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=Full-stack-Web-Dev-BD&show_icons=true&bg_color=ffea00&title_color=000000&text_color=000000&icon_color=ff0000&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ladib-nasr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ladib-nasr" height="30" width="40" /></a>
-<a href="https://medium.com/@ladibnasr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jackwesleyroper" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/alamin-hossen-4a1711206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ladib-nasr" height="30" width="40" /></a>
+  <a href="mailto:alaminprogramerr@gmail.com" target="_blank"><img align="center" src="https://github.com/Full-stack-Web-Dev-BD/Full-stack-Web-Dev-BD/assets/60449971/c1ffb248-f9f9-4293-9fcf-5c4265fb4bc0" alt="Email" height="30" width="40" /></a>
+  <a href="https://discord.com/users/YourUserID" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
-- 👋 Hi, I’m @Full-stack-Web-Dev-BD
-- 👀 I’m interested in Softwer Developing
-- 🌱 I’m Experienced in MERN stack  , Blockchain Developer and  currently learning Machine Learning !
-- 💞️ I’m looking to collaborate on with you !!  
-- alaminprogramerr@gmail.com (Slack)
-- Discord:Alamin#0564
+
+
 
