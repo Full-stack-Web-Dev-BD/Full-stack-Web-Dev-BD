@@ -16,13 +16,12 @@ Proficient in Fullstack Web Development utilizing Node.js, React, TypeScript,HTM
     <img src="https://github.com/Full-stack-Web-Dev-BD/Full-stack-Web-Dev-BD/assets/60449971/c770434a-4142-4787-aa7b-2bde98e8b12d" alt="Fiverr" width="40" height="40">
 </a>
 
- 
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
+  <img src="https://github.com/Full-stack-Web-Dev-BD/Full-stack-Web-Dev-BD/assets/60449971/546d4388-e2aa-41c0-aae9-5bd39f9d1e24" alt="Vercel" width="70" height="40"/>
   <img src="https://github.com/Full-stack-Web-Dev-BD/Full-stack-Web-Dev-BD/assets/60449971/65a59c7a-bdc8-4085-a8cf-a010a896f35b" alt="Ethereum" width="40" height="40"/>
   <img src="https://github.com/Full-stack-Web-Dev-BD/Full-stack-Web-Dev-BD/assets/60449971/7937fa39-ae3a-4d7e-a288-722447df8c56" alt="BSC" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
