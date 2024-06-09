@@ -9,12 +9,7 @@ Proficient in Fullstack Web Development utilizing Node.js, React, TypeScript,HTM
 
 [![Linkedin: ladibnasr](https://img.shields.io/badge/-Alamin%20Hossen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alamin-hossen-4a1711206/)](https://www.linkedin.com/in/alamin-hossen-4a1711206/)
 <br/>
-<a href="https://www.fiverr.com/alaminprogramer" target="_blank" style="text-decoration: none;">
-    <img src="https://github.com/Full-stack-Web-Dev-BD/Full-stack-Web-Dev-BD/assets/60449971/76d36e87-fdda-4576-bd25-db2297d41594" alt="Fiverr" width="40" height="40">
-</a>
-<a href="https://www.upwork.com/freelancers/shakhawat1" target="_blank" style="text-decoration: none;">
-    <img src="https://github.com/Full-stack-Web-Dev-BD/Full-stack-Web-Dev-BD/assets/60449971/c770434a-4142-4787-aa7b-2bde98e8b12d" alt="Fiverr" width="40" height="40">
-</a>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
