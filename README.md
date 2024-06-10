@@ -37,12 +37,7 @@ Proficient in Fullstack Web Development utilizing Node.js, React, TypeScript,HTM
 ## 📊 Github stats
 <img src="https://github-readme-stats.vercel.app/api?username=Full-stack-Web-Dev-BD&show_icons=true&bg_color=ffea00&title_color=000000&text_color=000000&icon_color=ff0000&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/alamin-hossen-4a1711206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ladib-nasr" height="30" width="40" /></a>
-  <a href="mailto:alaminprogramerr@gmail.com" target="_blank"><img align="center" src="https://github.com/Full-stack-Web-Dev-BD/Full-stack-Web-Dev-BD/assets/60449971/c1ffb248-f9f9-4293-9fcf-5c4265fb4bc0" alt="Email" height="30" width="40" /></a>
-  <a href="https://discord.com/users/YourUserID" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
-</p>
+
 
 
 
