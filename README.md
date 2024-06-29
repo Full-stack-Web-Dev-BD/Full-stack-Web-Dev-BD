@@ -4,12 +4,7 @@
 Proficient in Fullstack Web Development utilizing Node.js, React, TypeScript,HTML, CSS, Bootstrap, and Material UI. Experienced in integrating Web3 technologies, including  Ethereum, BscScan, and Polychain, with expertise in Solidity for smart contract development. Skilled in UX/UI design, proficient in Figma and Photoshop, with a keen eye for aesthetic and functional web design. Additional competencies include Python, Django, and a strong foundation in web design principles.
 
 🌍 From Bangladesh  
-🏃‍♂️ A web3 enthusiast
-<h3 align="left">Profile & Portfolio:</h3>
-
-[![Linkedin: ladibnasr](https://img.shields.io/badge/-Alamin%20Hossen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alamin-hossen-4a1711206/)](https://www.linkedin.com/in/alamin-hossen-4a1711206/)
-<br/>
-
+🏃‍♂️ A web3 enthusiast 
 
 
 <h3 align="left">Languages and Tools:</h3>
