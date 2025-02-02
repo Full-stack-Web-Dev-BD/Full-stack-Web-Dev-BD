@@ -36,7 +36,7 @@
     </div>
     <div style="width: 300px; border: 1px solid #ddd; padding: 10px; text-align: center;">
         <h3><a href="https://nostr-pulschain-client.vercel.app/login" target="_blank">Blockchain Development [Web3 Social media]</a></h3>
-        ![Screenshot_4](https://github.com/user-attachments/assets/bfbde272-10c9-474c-9b43-8d5a7994822c)
+         <img src="https://github.com/user-attachments/assets/bfbde272-10c9-474c-9b43-8d5a7994822c" alt="Real Estate Web App" width="100%" />
     </div>
     <div style="width: 300px; border: 1px solid #ddd; padding: 10px; text-align: center;">
         <h3><a href="https://blend-react.vercel.app/" target="_blank">Business Management System</a></h3>
@@ -45,7 +45,7 @@
     </div>
         <div style="width: 300px; border: 1px solid #ddd; padding: 10px; text-align: center;">
         <h3><a href="https://unicktheme.com/zefxa/" target="_blank">Landing Page Design</a></h3>
-       ![landing](https://github.com/user-attachments/assets/22198c3b-763c-4bf4-b2ee-2f4f4cfa00e5)
+             <img src="https://github.com/user-attachments/assets/22198c3b-763c-4bf4-b2ee-2f4f4cfa00e5" alt="Real Estate Web App" width="100%" />
     </div>
     <div style="width: 300px; border: 1px solid #ddd; padding: 10px; text-align: center;">
         <h3><a href="https://chaintusker.com/" target="_blank">Web3 Digital Service Marketplace</a></h3>
