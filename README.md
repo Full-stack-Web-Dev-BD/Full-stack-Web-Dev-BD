@@ -27,6 +27,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Full-stack-Web-Dev-BD&show_icons=true&bg_color=ffea00&title_color=000000&text_color=000000&icon_color=ff0000&hide_border=true&count_private=true"
     alt="GitHub Stats" height="160" />
 
+
 ## 🚀 Portfolio
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
     <div style="width: 300px; border: 1px solid #ddd; padding: 10px; text-align: center;">
@@ -34,13 +35,17 @@
         <img src="https://www.devunicornlabs.com/assets/img/projects/1.png" alt="Real Estate Web App" width="100%" />
     </div>
     <div style="width: 300px; border: 1px solid #ddd; padding: 10px; text-align: center;">
-        <h3><a href="https://gym-store.axiomthemes.com/" target="_blank">Ultimate Gym Center</a></h3>
-        <img src="https://www.devunicornlabs.com/assets/img/projects/3.png" alt="Gym Center Web App" width="100%" />
+        <h3><a href="https://nostr-pulschain-client.vercel.app/login" target="_blank">Blockchain Development [Web3 Social media]</a></h3>
+        ![Screenshot_4](https://github.com/user-attachments/assets/bfbde272-10c9-474c-9b43-8d5a7994822c)
     </div>
     <div style="width: 300px; border: 1px solid #ddd; padding: 10px; text-align: center;">
         <h3><a href="https://blend-react.vercel.app/" target="_blank">Business Management System</a></h3>
         <img src="https://www.devunicornlabs.com/assets/img/projects/4.png" alt="Business Management System"
             width="100%" />
+    </div>
+        <div style="width: 300px; border: 1px solid #ddd; padding: 10px; text-align: center;">
+        <h3><a href="https://unicktheme.com/zefxa/" target="_blank">Landing Page Design</a></h3>
+       ![landing](https://github.com/user-attachments/assets/22198c3b-763c-4bf4-b2ee-2f4f4cfa00e5)
     </div>
     <div style="width: 300px; border: 1px solid #ddd; padding: 10px; text-align: center;">
         <h3><a href="https://chaintusker.com/" target="_blank">Web3 Digital Service Marketplace</a></h3>
