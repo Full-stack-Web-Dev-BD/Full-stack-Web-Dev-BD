@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Shakhawat H ( Alamin )</h1>
+<h1 align="center">Hi 👋, I am Alamin Hossin (Shakhawat) </h1>
 <h3 align="center">Full-stack Web & Blockchain Developer <a href="https://fiverr.com">@ Fiverr</a></h3>
 
 <p align="center">Proficient in Fullstack Web Development utilizing Node.js, React, TypeScript, HTML, CSS, Bootstrap,
