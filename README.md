@@ -53,37 +53,34 @@
             width="100%" />
     </div>
 </div>
-Here are some of my latest web development tasks:
-https://chaintusker.com/
-https://nostr-pulschain-client.vercel.app/
-https://solona-dex.vercel.app/swap/  
+<h2>Here are some of my latest web development tasks:</h2>
+<p>
+  <a href="https://chaintusker.com/" target="_blank">Chaintusker - Web3 Marketplace</a><br />
+  <a href="https://nostr-pulschain-client.vercel.app/" target="_blank">Nostr Web3 Social Media</a><br />
+  <a href="https://solona-dex.vercel.app/swap/" target="_blank">Solana DEX - Raydium Fork</a>
+</p>
 
+<h2>Here are some of my latest web design tasks:</h2>
+<p>
+  <a href="https://www.trustifypro.com/" target="_blank">TrustifyPro - Business Platform</a><br />
+  <a href="https://gym-store.axiomthemes.com/" target="_blank">Gym Store - eCommerce Theme</a><br />
+  <a href="https://bastun.vercel.app/" target="_blank">Bastun - Architecture Website</a><br />
+  <a href="https://unicktheme.com/zefxa" target="_blank">Zefxa - Digital Agency Landing Page</a>
+</p>
 
+<h2>Here are some of my latest Blockchain development tasks:</h2>
+<p>
+  <a href="https://nostr-pulschain-client.vercel.app/" target="_blank">Web3 Social Media</a><br />
+  <a href="https://momo-swap-test.vercel.app/" target="_blank">Uniswap Fork Customization</a><br />
+  <a href="https://solona-dex.vercel.app/swap/" target="_blank">Raydium Fork Customization</a><br />
+  <a href="https://p2e-jackpot.vercel.app/" target="_blank">P2E Platform</a><br />
+  <a href="https://chaintusker.com/" target="_blank">Web3 Service Marketplace</a>
+</p>
 
-
-
-Here are some of my latest web design tasks:
-https://www.trustifypro.com/
-https://gym-store.axiomthemes.com/
-https://bastun.vercel.app/
-https://unicktheme.com/zefxa
-
-
-
-
-
-
-Here are some of my latest Blockchain development tasks:
-[Web3 Social Media]-https://nostr-pulschain-client.vercel.app/
-[Uniswap Fork-Customization]-https://momo-swap-test.vercel.app/
-[Raydium Fork-Customization]-https://solona-dex.vercel.app/swap/  
-[P2E Plateform]-https://p2e-jackpot.vercel.app/
-[Web3 Service Marketplace]-https://chaintusker.com/
-
-
-UI :
-https://elements.envato.com/react-js-multipurpose-react-bootstrap-5-template-H4XC2W7
-https://elements.envato.com/food-restaurant-html-template-FJPAS7N
-https://elements.envato.com/zefxa-digital-agency-html5-template-KSZXLXY
-
+<h2>UI Templates I frequently use:</h2>
+<p>
+  <a href="https://elements.envato.com/react-js-multipurpose-react-bootstrap-5-template-H4XC2W7" target="_blank">React Bootstrap 5 Template</a><br />
+  <a href="https://elements.envato.com/food-restaurant-html-template-FJPAS7N" target="_blank">Food & Restaurant HTML Template</a><br />
+  <a href="https://elements.envato.com/zefxa-digital-agency-html5-template-KSZXLXY" target="_blank">Zefxa - Digital Agency HTML5 Template</a>
+</p>
 
