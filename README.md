@@ -53,3 +53,37 @@
             width="100%" />
     </div>
 </div>
+Here are some of my latest web development tasks:
+https://chaintusker.com/
+https://nostr-pulschain-client.vercel.app/
+https://solona-dex.vercel.app/swap/  
+
+
+
+
+
+Here are some of my latest web design tasks:
+https://www.trustifypro.com/
+https://gym-store.axiomthemes.com/
+https://bastun.vercel.app/
+https://unicktheme.com/zefxa
+
+
+
+
+
+
+Here are some of my latest Blockchain development tasks:
+[Web3 Social Media]-https://nostr-pulschain-client.vercel.app/
+[Uniswap Fork-Customization]-https://momo-swap-test.vercel.app/
+[Raydium Fork-Customization]-https://solona-dex.vercel.app/swap/  
+[P2E Plateform]-https://p2e-jackpot.vercel.app/
+[Web3 Service Marketplace]-https://chaintusker.com/
+
+
+UI :
+https://elements.envato.com/react-js-multipurpose-react-bootstrap-5-template-H4XC2W7
+https://elements.envato.com/food-restaurant-html-template-FJPAS7N
+https://elements.envato.com/zefxa-digital-agency-html5-template-KSZXLXY
+
+
